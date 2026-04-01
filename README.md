@@ -4,6 +4,9 @@
 Aplicativo desenvolvido em Flutter que simula investimentos com aportes mensais. O usuário informa o valor investido por mês, o período em meses e a taxa de juros. O sistema exibe o valor acumulado sem juros e com juros compostos, permitindo comparar o crescimento do investimento ao longo do tempo.
 
 ## Prints
+![home](https://github.com/user-attachments/assets/bd7fc672-b955-4282-9a1c-5cbdf798f819)
+![calcular](https://github.com/user-attachments/assets/e8a92057-8520-479f-b94c-365d05f015a3)
+![resultado](https://github.com/user-attachments/assets/489352ad-40eb-4f5a-907e-e985467b024d)
 
 ## Tecnologias
 - Vs Code;
