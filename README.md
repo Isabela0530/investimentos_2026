@@ -1,7 +1,7 @@
 # investimentos_2026
 
 ## Descrição
-Aplicativo desenvolvido em Flutter que simula o cálculo de financiamento. O usuário informa o valor do bem, a taxa de juros mensal, o número de parcelas e custos adicionais. O sistema calcula o valor das parcelas e o montante total a ser pago, auxiliando na tomada de decisão antes de realizar uma compra financiada.
+Aplicativo desenvolvido em Flutter que simula investimentos com aportes mensais. O usuário informa o valor investido por mês, o período em meses e a taxa de juros. O sistema exibe o valor acumulado sem juros e com juros compostos, permitindo comparar o crescimento do investimento ao longo do tempo.
 
 ## Prints
 
